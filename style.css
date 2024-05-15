@@ -17,6 +17,7 @@ body{
     background-size: cover;
     background-position: center;
     text-align: center;
+    padding: 50px 50px;
     width: 100%; /* Largeur égale à la largeur de l'écran avec vw*/
     height: 100vh; /* Hauteur égale à la hauteur de l'écran avec vh*/
 }

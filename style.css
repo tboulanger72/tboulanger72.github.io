@@ -16,9 +16,8 @@ body{
     background-image: url('images/Design\ sans\ titre.png'); /*filter: brightness(80%)*/;
     background-size: cover;
     background-position: center;
-    padding: 50px 50px;
     text-align: center;
-    width: 100vw; /* Largeur égale à la largeur de l'écran avec vw*/
+    width: 100%; /* Largeur égale à la largeur de l'écran avec vw*/
     height: 100vh; /* Hauteur égale à la hauteur de l'écran avec vh*/
 }
 
